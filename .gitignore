@@ -1,0 +1,18 @@
+# scratch / temp
+.tmp/
+Unselected files/
+
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+
+# os / editor
+.DS_Store
+Thumbs.db
+*.swp
+
+# local-only notes
+*.local.md
+.env
